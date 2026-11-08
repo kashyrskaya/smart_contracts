@@ -33,3 +33,17 @@ snapshots/
 # OS metadata
 .DS_Store
 Thumbs.db
+.agents/skills/hardhat/SKILL.md
+.agents/skills/hardhat-toolbox-viem/SKILL.md
+assignment_4/.agents
+assignment_4/.claude
+assignment_4/AGENTS.md
+assignment_4/CLAUDE.md
+assignment_4/skills/hardhat/SKILL.md
+assignment_4/skills/hardhat-toolbox-viem/SKILL.md
+assignment_5/.agents
+assignment_5/.claude
+assignment_5/AGENTS.md
+assignment_5/CLAUDE.md
+assignment_5/skills/hardhat/SKILL.md
+assignment_5/skills/hardhat-toolbox-viem/SKILL.md
